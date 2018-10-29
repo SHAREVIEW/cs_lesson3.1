@@ -11,7 +11,7 @@ namespace cs_lesson3._1
         static void Main(string[] args)
         {
 
-        //goto语句
+        //goto语句，循环打印结果
         start:
         int myInteger = 5;
         goto addVa1;
